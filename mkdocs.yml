@@ -1,0 +1,8 @@
+site_name: Www.amazon.com
+
+nav:
+  - Home: index.md
+
+plugins:
+  - monorepo
+  - techdocs-core

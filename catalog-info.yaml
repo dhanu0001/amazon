@@ -1,0 +1,15 @@
+apiVersion: backstage.io/v1alpha1
+kind: Component
+metadata:
+  name: amazon
+  title: Www.amazon.com
+  description: A static HTML website. Just like the good old days.
+  links:
+    - url: https://dhanu0001.github.io/amazon/
+      title: Live website
+  annotations:
+    github.com/project-slug: dhanu0001/amazon
+spec:
+  type: website
+  owner: engineering
+  lifecycle: experimental
